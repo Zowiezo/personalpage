@@ -305,6 +305,10 @@ textarea {
     border: 1px solid #E8A187;
     border-radius: 2.5px;
 }
+input,
+label {
+    display: block;
+}
 
 .form-group,
 .form-control {
@@ -320,6 +324,6 @@ textarea {
 .form-group {
     font-family: 'Montserrat', sans-serif;
     text-align: justify;
-    font-size: 18px;
+    font-size: 20px;
     color: #B86B77;
 }
