@@ -106,11 +106,12 @@ p {
 }
 
 body {
-    background: url("https://image.freepik.com/free-photo/close-up-white-marble-texture-background_53876-63512.jpg") no-repeat center center fixed;
+    /* background: url("https://image.freepik.com/free-photo/close-up-white-marble-texture-background_53876-63512.jpg") no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
-    background-size: cover;
+    background-size: cover; */
+    background-color: #DDE1E4;
     margin: 0;
     font-family: 'Montserrat', sans-serif;
     font-size: 18px;
